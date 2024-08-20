@@ -1,0 +1,2 @@
+# animatype
+ Animator prototype
